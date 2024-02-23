@@ -4,3 +4,6 @@ This repository is for practicing GitHub flow
 
 #  session-2
 cloned for the first time
+
+# session-3
+commited and pushed 2 times
